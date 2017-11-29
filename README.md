@@ -8,18 +8,22 @@ Phoenix是目前Hadoop生態圈具指標性之新興技術，以低延遲著名�
 
 #### 團隊工作分配
 
-* 成功大學蕭教授團隊：5人
+* <b>成功大學蕭教授團隊</b>：5人
   * Phoenix JSON 實作與HBase整合
-* ITRI團隊：5人
+  
+* <b>ITRI團隊</b>：5人
   * 效能管理與優化以符合Apache測試需求
-* 聯電團隊：2人
+  
+* <b>聯電團隊</b>：2人
   * 實際應用與驗證
-* Phoenix開源社群：
+  
+* <b>Phoenix開源社群</b>：
   * Design review、Code review、
   * 共同開發探討與測試
 
 #### 具體產業效益
-* 產學研與社群合作開發產業鏈需求項目回饋國際主流社群培育開源開發人才，使用YCSB(Yahoo! Cloud Serving Benchmark )進行技術評測，提升產業實際測試結果可信度與實測人才能力。
+* 產學研與社群合作開發產業鏈需求項目，回饋國際主流社群培育開源人才以建立開源經濟與產業。
+* 運用Yahoo研製之評測工具YCSB作為主要評測工具，提升產業實際測試結果可信度與實測人才能力。
 
 <p align="center">
   <img src="https://github.com/twoss-io/ApachePhoenix-Co-Lab/blob/master/img/phoenix_intro1.png">
